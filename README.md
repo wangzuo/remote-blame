@@ -1,4 +1,4 @@
-# remote-blame
+# remote-blame [![Build Status](https://travis-ci.org/wangzuo/remote-blame.svg?branch=master)](https://travis-ci.org/wangzuo/remote-blame)
 
 ``` sh
 ~ npm i remote-blame -g
